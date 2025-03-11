@@ -32,11 +32,26 @@
     <Reference Include="DOTween">
       <HintPath>Libraries\DOTween.dll</HintPath>
     </Reference>
+    <Reference Include="FishNet.CodeAnalysis">
+      <HintPath>Libraries\FishNet.CodeAnalysis.dll</HintPath>
+    </Reference>
+    <Reference Include="FishNet.Demos">
+      <HintPath>Libraries\FishNet.Demos.dll</HintPath>
+    </Reference>
+    <Reference Include="FishNet.Runtime">
+      <HintPath>Libraries\FishNet.Runtime.dll</HintPath>
+    </Reference>
     <Reference Include="FMODUnity">
       <HintPath>Libraries\FMODUnity.dll</HintPath>
     </Reference>
     <Reference Include="FMODUnityResonance">
       <HintPath>Libraries\FMODUnityResonance.dll</HintPath>
+    </Reference>
+    <Reference Include="GameKit.Dependencies">
+      <HintPath>Libraries\GameKit.Dependencies.dll</HintPath>
+    </Reference>
+    <Reference Include="Isto.Core">
+      <HintPath>Libraries\Isto.Core.dll</HintPath>
     </Reference>
     <Reference Include="MelonLoader">
       <HintPath>Libraries\MelonLoader.dll</HintPath>
