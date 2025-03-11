@@ -7,4 +7,7 @@ I adore this community and the small, yet growing modding of the game too.
 I've open-sourced this mod to allow other modders to create mods for the game.
 There is no license to this repo, just please do not re-distribute without our permission.
 
+Warning: This code is a bit of a mess!
+Sorry
+
 https://www.nexusmods.com/gettowork/mods/6
